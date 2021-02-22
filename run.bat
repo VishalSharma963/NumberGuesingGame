@@ -1,0 +1,2 @@
+javac NumberGuesingGame.java
+java NumberGuesingGame
